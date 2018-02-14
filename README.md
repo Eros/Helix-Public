@@ -18,10 +18,6 @@ that handles it going through servers and networking is included in
 this version. This repo main purporse is to help people building 
 their bots.
 
-Anything in node_modules is not written by me. These are seperate
-libraries made by other people that are used by either me, node 
-or other libs.
-
 Something here will trigger ConnorLinfoot.....DEAL WITH IT CONNOR.
 
 # Contact
