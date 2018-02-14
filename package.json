@@ -1,0 +1,29 @@
+{
+  "name": "helix",
+  "version": "1.0.0",
+  "description": "Helix source code",
+  "main": "index.js",
+  "dependencies": {
+    "cleverbot.io": "^1.0.4",
+    "discord.js": "^11.3.0",
+    "giphy": "0.0.4",
+    "github-api": "^3.0.0",
+    "hypixel": "^1.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.12"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "private"
+  },
+  "author": "rapidthenerd",
+  "license": "ISC",
+  "bugs": {
+    "url": "private"
+  },
+  "homepage": "private"
+}
